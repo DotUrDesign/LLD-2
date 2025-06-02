@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SOLID_Principles/Bird/Bird.iml" filepath="$PROJECT_DIR$/SOLID_Principles/Bird/Bird.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Builder/Builder.iml" filepath="$PROJECT_DIR$/Builder/Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Factory/Factory.iml" filepath="$PROJECT_DIR$/Factory/Factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LLD-2.iml" filepath="$PROJECT_DIR$/.idea/LLD-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrototypeAndRegistry/PrototypeAndRegistry.iml" filepath="$PROJECT_DIR$/PrototypeAndRegistry/PrototypeAndRegistry.iml" />
